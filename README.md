@@ -11,6 +11,3 @@ Hello! I'm a software engineering student with a strong background in various pr
 - **Bachelor of Engineering – Software Engineering (Expected 2026)**
   - Concordia University, Montreal, QC
   - Relevant Courses: OOP, Data Structures, Probability & Statistics, software processes
-
-## Projects
-(TO BE ADDED)
